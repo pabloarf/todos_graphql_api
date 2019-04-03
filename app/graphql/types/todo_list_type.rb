@@ -5,6 +5,5 @@ module Types
 
     field :id, !types.ID
     field :title, !types.String
-    field :item, types.Item
   end
 end
