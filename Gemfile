@@ -43,6 +43,7 @@ group :development do
   gem 'actionview', '>= 5.2.2.1'
   gem 'activejob', '>= 5.2.1.1'
   gem 'activestorage', '>= 5.2.1.1'
+  gem 'graphiql-rails'
 end
 
 group :test do
